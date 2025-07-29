@@ -30,7 +30,7 @@ Databases:MySQL
 - ![JPA](https://img.shields.io/badge/JPA-%23FF7F00?style=flat&logo=java&logoColor=white)
 - ![J2EE](https://img.shields.io/badge/J2EE-%23FF5733?style=flat&logo=java&logoColor=white)
 - ![JDBC](https://img.shields.io/badge/JDBC-%23FF5733?style=flat&logo=java&logoColor=white)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Coding from Home](https://raw.githubusercontent.com/Pratiksha2729/Pratiksha2729/main/giphy.gif)
 
 ## 📌 Projects:
