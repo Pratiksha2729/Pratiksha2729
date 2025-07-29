@@ -48,34 +48,19 @@ Here are a few of my favorite projects:
 ## 🌍 Connect with Me!
 
 <a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
-  <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
-    LinkedIn
-  </button>
-</a> <br>
-<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Email</button></a><br>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid
-" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Naukari</button></a><br>
-<a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
-  <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
-    Personal Portfolio
-  </button>
-</a><br>
-
-<!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
 
-<!-- Portfolio Badge -->
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="max-width: 100%;">
 </a>
 
-<!-- Email Badge -->
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;">
+</a>
+
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+  <img src="https://img.shields.io/badge/Naukri-%23FF6F00?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri" style="max-width: 100%;">
 </a>
 
 
