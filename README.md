@@ -24,9 +24,7 @@ Databases:MySQL
 - ![WordPress](https://img.shields.io/badge/WordPress-%234B4B4B?style=flat&logo=wordpress&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234478a3?style=flat&logo=mysql&logoColor=white)
 - ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F00?style=flat&logo=oracle&logoColor=white)
-
----
-
+  
 ## 🛠️ Backend & Frameworks
 - ![Hibernate](https://img.shields.io/badge/Hibernate-%234B4B4B?style=flat&logo=hibernate&logoColor=white)
 - ![JPA](https://img.shields.io/badge/JPA-%23FF7F00?style=flat&logo=java&logoColor=white)
@@ -48,22 +46,24 @@ Here are a few of my favorite projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha2729&layout=compact&langs_count=8&theme=radical)
 
 ## 🌍 Connect with Me!
+
 <a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
-  <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">LinkedIn</button>
-</a><br>
+  <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
+    LinkedIn
+  </button>
+</a>
 
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
-  <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Personal Portfolio</button>
-</a><br>
+  <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
+    Personal Portfolio
+  </button>
+</a>
 
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
-</a><br>
-
-<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
-</a><br>
-
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
+    Email
+  </button>
+</a>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 My Goal:
