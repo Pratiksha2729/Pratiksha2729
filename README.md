@@ -49,8 +49,19 @@ Here are a few of my favorite projects:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌍 Find me on:
-- [LinkedIn]https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/
-- [Personal Portfolio] https://portfolio-website-aedo.vercel.app/
+
+<a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
+  <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">LinkedIn</button>
+</a>
+
+<a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
+  <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Personal Portfolio</button>
+</a>
+
+<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
+</a>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 My Goal:
