@@ -2,7 +2,10 @@
 <span>
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.</span><br><br>
 
-<img src="https://camo.githubusercontent.com/948ed66ea38c4d6b455bd013a3ff2838a1e5f994dab13f4d7d6d26aa6c44cc51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&amp;logo=About.me" style="max-width: 100%;">
+<a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
+  <img src="https://camo.githubusercontent.com/948ed66ea38c4d6b455bd013a3ff2838a1e5f994dab13f4d7d6d26aa6c44cc51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&amp;logo=About.me" style="max-width: 100%;">
+</a>
+
 🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
 Frameworks/Technologies: Hibernate, JPA, JDBC, J2EE, Servlet, React, Bootstrap, Tailwind CSS
@@ -34,7 +37,7 @@ Databases:MySQL
 Here are a few of my favorite projects:
 - **:Myntra Clone
 - **:Amazon Clone
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 ![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratiksha2729&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
