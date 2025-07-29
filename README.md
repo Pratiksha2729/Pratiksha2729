@@ -51,19 +51,19 @@ Here are a few of my favorite projects:
   <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
     LinkedIn
   </button>
-</a>
+</a> <br>
 
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
     Personal Portfolio
   </button>
-</a>
+</a><br>
 
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
     Email
   </button>
-</a>
+</a><br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 My Goal:
