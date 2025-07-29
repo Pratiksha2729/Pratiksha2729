@@ -1,6 +1,6 @@
 # Hi, I'm Pratiksha Jadhav 👋
-
-Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.
+<span>
+Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.</span><br><br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Skills
@@ -32,15 +32,8 @@ Databases:MySQL
 - ![JPA](https://img.shields.io/badge/JPA-%23FF7F00?style=flat&logo=java&logoColor=white)
 - ![J2EE](https://img.shields.io/badge/J2EE-%23FF5733?style=flat&logo=java&logoColor=white)
 - ![JDBC](https://img.shields.io/badge/JDBC-%23FF5733?style=flat&logo=java&logoColor=white)
-
----
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 ![Coding from Home](https://raw.githubusercontent.com/Pratiksha2729/Pratiksha2729/main/giphy.gif)
-
 
 ## 📌 Projects:
 Here are a few of my favorite projects:
@@ -57,19 +50,19 @@ Here are a few of my favorite projects:
 ## 🌍 Connect with Me!
 <a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
   <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">LinkedIn</button>
-</a>
+</a><br>
 
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Personal Portfolio</button>
-</a>
+</a><br>
 
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
-</a>
+</a><br>
 
-<span><a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
+<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
-</a></span>
+</a><br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
