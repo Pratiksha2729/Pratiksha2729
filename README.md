@@ -1,8 +1,13 @@
 # Hi, I'm Pratiksha Jadhav 👋
 
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔧 Technologies & Tools:
+🛠 Skills
+Languages: Java, C/C++, HTML, CSS, JavaScript
+Frameworks/Technologies: Hibernate, JPA, JDBC, J2EE, Servlet, React, Bootstrap, Tailwind CSS
+Databases:MySQL
+
 ## 💻 Programming Languages
 - ![Java](https://img.shields.io/badge/Java-%23FF5733?style=flat&logo=java&logoColor=white)
 - ![C/C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -10,7 +15,7 @@ Welcome to my GitHub profile! I’m a passionate software Developer with experie
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Web & Database Technologies
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
@@ -30,9 +35,8 @@ Welcome to my GitHub profile! I’m a passionate software Developer with experie
 
 ---
 
-## 📋 Other Tools
-- ![LaTeX](https://img.shields.io/badge/LaTeX-%231194C2?style=flat&logo=latex&logoColor=white)
-- ![MS Office](https://img.shields.io/badge/MS_Office-%234F4F4F?style=flat&logo=microsoft-office&logoColor=white)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![Coding from Home](https://raw.githubusercontent.com/Pratiksha2729/Pratiksha2729/main/giphy.gif)
@@ -42,11 +46,12 @@ Welcome to my GitHub profile! I’m a passionate software Developer with experie
 Here are a few of my favorite projects:
 - **: Description of your project.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌍 Find me on:
 - [LinkedIn]https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/
 - [Personal Portfolio] https://portfolio-website-aedo.vercel.app/
-- 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 My Goal:
 I aim to continuously learn and apply my knowledge to real-world challenges. I’m open to new opportunities and collaborations.
