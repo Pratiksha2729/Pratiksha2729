@@ -2,6 +2,7 @@
 <span>
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.</span><br><br>
 
+<img src="https://camo.githubusercontent.com/948ed66ea38c4d6b455bd013a3ff2838a1e5f994dab13f4d7d6d26aa6c44cc51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&amp;logo=About.me" style="max-width: 100%;">
 🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
 Frameworks/Technologies: Hibernate, JPA, JDBC, J2EE, Servlet, React, Bootstrap, Tailwind CSS
@@ -9,18 +10,15 @@ Databases:MySQL
 
 ## 💻 Programming Languages
 - ![Java](https://img.shields.io/badge/Java-%23FF5733?style=flat&logo=java&logoColor=white)
-- ![C](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Web & Database Technologies
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-%234B4B4B?style=flat&logo=wordpress&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234478a3?style=flat&logo=mysql&logoColor=white)
 - ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F00?style=flat&logo=oracle&logoColor=white)
   
@@ -34,8 +32,8 @@ Databases:MySQL
 
 ## 📌 Projects:
 Here are a few of my favorite projects:
-- **: Description of your project.
-
+- **:Myntra Clone
+- **:Amazon Clone
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
@@ -51,14 +49,11 @@ Here are a few of my favorite projects:
     LinkedIn
   </button>
 </a> <br>
-
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Email</button></a><br>
-  
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid
 " target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Naukari</button></a><br>
-  
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
     Personal Portfolio
