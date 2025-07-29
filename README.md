@@ -1,7 +1,9 @@
 # Hi, I'm Pratiksha Jadhav 👋
 <span>
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.</span><br><br>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------🛠 Skills
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
 Frameworks/Technologies: Hibernate, JPA, JDBC, J2EE, Servlet, React, Bootstrap, Tailwind CSS
 Databases:MySQL
@@ -13,7 +15,7 @@ Databases:MySQL
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Web & Database Technologies
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
