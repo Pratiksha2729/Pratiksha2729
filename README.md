@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate software Developer with experie
 
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <img src="https://camo.githubusercontent.com/948ed66ea38c4d6b455bd013a3ff2838a1e5f994dab13f4d7d6d26aa6c44cc51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&amp;logo=About.me" style="max-width: 100%;">
-</a>
+</a><br>
 
 🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
@@ -62,6 +62,22 @@ Here are a few of my favorite projects:
     Personal Portfolio
   </button>
 </a><br>
+
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+</a>
+
+<!-- Portfolio Badge -->
+<a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="max-width: 100%;">
+</a>
+
+<!-- Email Badge -->
+<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;">
+</a>
+
 
 
 ## 🎯 My Goal:
