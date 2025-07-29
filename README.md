@@ -52,14 +52,19 @@ Here are a few of my favorite projects:
   </button>
 </a> <br>
 
+<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Email</button></a><br>
+  
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid
+" target="_blank">
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Naukari</button></a><br>
+  
 <a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
     Personal Portfolio
   </button>
 </a><br>
 
-<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Email</button></a><br>
 
 ## 🎯 My Goal:
 I aim to continuously learn and apply my knowledge to real-world challenges. I’m open to new opportunities and collaborations.
