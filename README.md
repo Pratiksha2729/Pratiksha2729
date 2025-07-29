@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.
 
+![Coding from Home](https://raw.githubusercontent.com/Pratiksha2729/Pratiksha2729/main/giphy.gif)
+
 ## 🔧 Technologies & Tools:
 ### Languages:
 - Java, C/C++, HTML, CSS, JavaScript, SQL
