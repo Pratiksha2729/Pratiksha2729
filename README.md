@@ -59,11 +59,8 @@ Here are a few of my favorite projects:
 </a><br>
 
 <a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
-  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">
-    Email
-  </button>
-</a><br>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer; display:block; width:200px; text-align:center; margin-bottom:10px;">Email</button></a><br>
+
 ## 🎯 My Goal:
 I aim to continuously learn and apply my knowledge to real-world challenges. I’m open to new opportunities and collaborations.
 
