@@ -1,6 +1,8 @@
 # Hi, I'm Pratiksha Jadhav 👋
 
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.
+
+## 🔧 Technologies & Tools:
 ## 💻 Programming Languages
 - ![Java](https://img.shields.io/badge/Java-%23FF5733?style=flat&logo=java&logoColor=white)
 - ![C/C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -35,18 +37,6 @@ Welcome to my GitHub profile! I’m a passionate software Developer with experie
 
 ![Coding from Home](https://raw.githubusercontent.com/Pratiksha2729/Pratiksha2729/main/giphy.gif)
 
-## 🔧 Technologies & Tools:
-### Languages:
-- Java, C/C++, HTML, CSS, JavaScript, SQL
-
-### Frameworks/Technologies:
-- Hibernate, JPA, JDBC, J2EE, React, Bootstrap, Tailwind CSS, Spring, Spring boot
-
-### Databases:
-- MySQL ,PgSQL
-
-### Tools:
-- Git, Docker, VS Code, IntelliJ, LaTeX, MS Office
 
 ## 📌 Projects:
 Here are a few of my favorite projects:
