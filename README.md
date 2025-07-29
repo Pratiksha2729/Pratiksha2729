@@ -1,7 +1,6 @@
 # Hi, I'm Pratiksha Jadhav 👋
 <span>
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.</span><br><br>
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
@@ -64,8 +63,7 @@ Here are a few of my favorite projects:
     Email
   </button>
 </a><br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎯 My Goal:
 I aim to continuously learn and apply my knowledge to real-world challenges. I’m open to new opportunities and collaborations.
 
