@@ -1,7 +1,7 @@
 # Hi, I'm Pratiksha Jadhav 👋
 
 Welcome to my GitHub profile! I’m a passionate software Developer with experience in full-stack development, focused on building scalable and high-performance applications using modern technologies.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Skills
 Languages: Java, C/C++, HTML, CSS, JavaScript
@@ -15,7 +15,7 @@ Databases:MySQL
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Web & Database Technologies
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
@@ -35,7 +35,7 @@ Databases:MySQL
 
 ---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -46,23 +46,32 @@ Databases:MySQL
 Here are a few of my favorite projects:
 - **: Description of your project.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🌍 Find me on:
+## 📊 GitHub Stats
+![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratiksha2729&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<span><a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
+## 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha2729&layout=compact&langs_count=8&theme=radical)
+
+## 🌍 Connect with Me!
+<a href="https://www.linkedin.com/in/pratiksha-jadhav-a807a6208/" target="_blank">
   <button style="background-color:#0077b5; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">LinkedIn</button>
-</a></span>
+</a>
 
-<span><a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
+<a href="https://portfolio-website-aedo.vercel.app/" target="_blank">
   <button style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Personal Portfolio</button>
-</a></span>
+</a>
+
+<a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
+  <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
+</a>
 
 <span><a href="mailto:jadhavpratiksha0729@gmail.com" target="_blank">
   <button style="background-color:#D14836; color:white; padding:10px 20px; border-radius:5px; border:none; font-size:16px; cursor:pointer;">Email</button>
 </a></span>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 My Goal:
 I aim to continuously learn and apply my knowledge to real-world challenges. I’m open to new opportunities and collaborations.
