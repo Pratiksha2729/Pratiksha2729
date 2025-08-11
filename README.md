@@ -37,6 +37,7 @@ Databases:MySQL
 Here are a few of my favorite projects:
 - **:Myntra Clone
 - **:Amazon Clone
+- **:Indian Doctors Network
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
